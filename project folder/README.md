@@ -3,7 +3,7 @@
 PROJECT NAME
 
 BY (TEAM NAME)
-MEMBERS: Finley Morris, (LIST OF MEMBERS)
+MEMBERS: Finley Morris, Matt McConachie, (LIST OF MEMBERS)
 
 OVERVIEW OF GAME
 What is your game about? What are its key mechanics? What are its main narrative
@@ -22,6 +22,6 @@ Matt's Update: 4/3/2024
 - recognition that the player has picked up the key
 - the key needs to be able to disappear - figuring this out
 - *potential* - figured out how to display and design multiple tilemaps - for demos purposes we will use use 1 tilemap
-- moodboard - gives a rough idea of what we are planning to do - Eoin has finished moodboard
+- mood board - gives a rough idea of what we are planning to do - Eoin has finished moodboard
 - 
 
